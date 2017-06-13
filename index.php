@@ -7,3 +7,5 @@
  */
 
 echo 'first';
+
+echo 'second';
